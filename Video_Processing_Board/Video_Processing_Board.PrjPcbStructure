@@ -1,8 +1,0 @@
-Record=TopLevelDocument|FileName=Connector.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=DRAM+BANK1.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=Input Transceivers.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=JTAG & Reset Connection.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=Output Transceivers.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=PMIC.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=Power and Decoupling Capacitors.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=8
